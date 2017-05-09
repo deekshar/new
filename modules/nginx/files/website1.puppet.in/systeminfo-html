@@ -1,0 +1,5 @@
+puppetversion => 3.8.5
+rubyplatform => x86_64-linux-gnu
+kernelmajversion => 4.4
+kernelrelease => 4.4.0-1013-aws
+
